@@ -1,4 +1,4 @@
-#Creat a list and swap the second half of the list with the first half of the list and print the list on the screen.
+#Create a list and swap the second half of the list with the first half of the list and print the list on the screen.
 list = [1,2,3,4,5,6,7,8]
 e = len(list)
 if e%2 == 0:
