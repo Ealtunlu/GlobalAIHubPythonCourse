@@ -6,7 +6,10 @@
 
 usrs={"Emre":"Emre123"}
 usrname , usrpassword = input("Please enter your username : ") , input("Please enter your password : ")
-if usrs[usrname] == usrpassword:
-    print("Login Succeessful!")
-else:
-    print("Wrong Username Or Password!")
+try:
+    if usrs[usrname] == usrpassword:
+        print("Login Succeessful!")
+    else:
+        print("Wrong Username Or Password!")
+except:
+    print("User Cannot Be Found")
