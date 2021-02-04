@@ -12,4 +12,4 @@ try:
     else:
         print("Wrong Username Or Password!")
 except:
-    print("User Cannot Be Found")
+    print("Wrong Username Or Password!")
