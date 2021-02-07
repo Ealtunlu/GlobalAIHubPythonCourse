@@ -2,6 +2,10 @@
   <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png">
 </div>
 
+Course Date: 01.02.2021 - 05.02.2021
+Name: Emre
+Surname : Altunlu
+Email: emrealtunlu7@gmail.com
 # Welcome to our Introduction to Python Programming Course Repo!
 
 You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
