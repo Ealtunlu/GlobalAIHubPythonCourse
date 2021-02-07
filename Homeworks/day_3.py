@@ -1,9 +1,9 @@
 # User login application:
 #   -Get username and password values from the user.
 #   -Check the values in an if statement and tell the user if they were successful.
-usrname, uspass = "Emre", "Emre123"
+usrname1, uspass = "Emre", "Emre123"
 usrInputName , usrInputPass = input("Please enter your username : ") , input("Please enter your password : ")
-if usrInputName == usrname and usrInputPass == uspass:
+if usrInputName == usrname1 and usrInputPass == uspass:
     print("Login Successful!")
 else:
     print("Wrong Username Or Password!")
