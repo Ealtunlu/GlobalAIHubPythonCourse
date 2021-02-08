@@ -52,7 +52,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Introduction to NumPy (Extra)
 
 ## Certificate
-[]Py_Certificate.png
-
-
+<div align="center">
+  <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/446945700517.png">
+</div>
 
