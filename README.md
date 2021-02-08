@@ -52,4 +52,4 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Introduction to NumPy (Extra)
 
 ## Certificate
-[](https://github.com/Ealtunlu/GlobalAIHubPythonCourse/blob/main/Py_Certificate.png "Title")
+![](https://github.com/Ealtunlu/GlobalAIHubPythonCourse/blob/main/Py_Certificate.png "Title")
