@@ -14,7 +14,6 @@ n = int(input("Input single digit integer : " ))
 if n%2==1:
      for i in range(0,n,2):
          print(i,end=" ")
-
 print(n)
 if n%2==0:
     print("Please input a single digit integer!")
